@@ -46,4 +46,12 @@ public class Titulo {
     public int getDuracaoEmMinutos() {
         return duracaoEmMinutos;
     }
+
+    public int getAnoDeLancamento() {
+        return anoDeLancamento;
+    }
+
+    public String getNome() {
+        return nome;
+    }
 }
